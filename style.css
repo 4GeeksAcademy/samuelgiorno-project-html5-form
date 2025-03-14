@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header-form {
+    background-color: #FFD700;
+    margin: 0;
+}
+
+.header-form h1 {
+    color: black;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+.display-7 {
+    color: rgb(149, 27, 27);
+    background-color: #efa69e;
+    border-radius: 1px;
+}
+
+#payment {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#payment i {
+    padding-right: 15px;
+}
+
+.col-12 {
+    display: flex;
+    flex-direction: row-reverse;
+}
